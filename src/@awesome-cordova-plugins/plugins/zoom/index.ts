@@ -67,7 +67,7 @@ import { Cordova, AwesomeCordovaNativePlugin, Plugin } from '@awesome-cordova-pl
  *
  * // Start an instant meeting for logged in user.
  * this.zoomService.startInstantMeeting()
- *   .then((success: anu) => console.log(success))
+ *   .then((success: any) => console.log(success))
  *   .catch((error: any) => console.log(error));
  *
  * // Set language.
