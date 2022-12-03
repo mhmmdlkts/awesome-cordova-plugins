@@ -7,7 +7,7 @@ import { Cordova, AwesomeCordovaNativePlugin, Plugin } from '@awesome-cordova-pl
  * A Cordova plugin to use Zoom Video Conferencing services on Cordova applications.
  * @usage
  * ```typescript
- * import { Zoom } from '@awesome-cordova-plugins/zoom';
+ * import { Zoom } from '@awesome-cordova-plugins/zoom/ngx';
  *
  *
  * constructor(private zoomService: Zoom) { }
